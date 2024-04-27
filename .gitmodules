@@ -1,0 +1,6 @@
+[submodule "shipwright.nvim"]
+	path = shipwright.nvim
+	url = git@github.com:rktjmp/shipwright.nvim.git
+[submodule "lush.nvim"]
+	path = lush.nvim
+	url = git@github.com:rktjmp/lush.nvim.git
